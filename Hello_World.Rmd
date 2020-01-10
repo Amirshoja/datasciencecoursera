@@ -1,0 +1,16 @@
+---
+title: "My First Markdown"
+author: "Me!"
+date: "1/10/2020"
+output: html_document
+---
+
+## Hi this is a heading for my Hello World code
+
+``` {r Hello World}
+print("Hello World!")
+````
+
+### End of Code
+
+
